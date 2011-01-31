@@ -1,0 +1,2 @@
+ADD MIDI_INSTRUMENT_MAP 'DD-Washburn-AB-20-F'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Washburn\x20AB-20\x20F.gig' 0 1.0 ON_DEMAND 'Washburn AB 20 - F'

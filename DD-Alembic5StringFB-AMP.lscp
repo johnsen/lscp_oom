@@ -1,0 +1,2 @@
+ADD MIDI_INSTRUMENT_MAP 'DD-Alembic5StringFB-AMP'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Alembic\x205\x20String\x20FB\x20AMP.gig' 0 1.0 ON_DEMAND 'Alembic/5 FB Amp'

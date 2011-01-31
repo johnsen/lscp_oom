@@ -1,0 +1,7 @@
+ADD MIDI_INSTRUMENT_MAP 'DD-Rickenbacker-4001'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Rickenbacker\x204001.gig' 2 1.0 ON_DEMAND 'Rickenbacker 4001 - PA'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Rickenbacker\x204001.gig' 1 1.0 ON_DEMAND 'Rickenbacker 4001 - PB'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Rickenbacker\x204001.gig' 3 1.0 ON_DEMAND 'Rickenbacker 4001 FB'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 3 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Rickenbacker\x204001.gig' 4 1.0 ON_DEMAND 'Rickenbacker 4001 FF/A'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 4 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Rickenbacker\x204001.gig' 5 1.0 ON_DEMAND 'Rickenbacker 4001 Hard'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 5 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Rickenbacker\x204001.gig' 0 1.0 ON_DEMAND 'Rickenbacker 4001 Keyswitch'

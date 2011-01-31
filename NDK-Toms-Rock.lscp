@@ -1,0 +1,2 @@
+ADD MIDI_INSTRUMENT_MAP 'Toms-Rock-NDK'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/NDKFunkkit/NDK-Toms-Rock.gig' 0 1.0 ON_DEMAND 'NDK Toms - Rock - Snare on (rock/studio tuning)'

@@ -1,0 +1,5 @@
+ADD MIDI_INSTRUMENT_MAP 'FirstCallHorns-TenorSax-Section'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax\x20Section.gig' 0 1.0 ON_DEMAND 'Tenor Sax Section'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax\x20Section.gig' 1 1.0 ON_DEMAND 'Tenor Sax Section Mellow'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax\x20Section.gig' 2 1.0 ON_DEMAND 'Tenor Sax Section Staccato'
+MAP MIDI_INSTRUMENT NON_MODAL 0 0 3 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax\x20Section.gig' 3 1.0 ON_DEMAND 'Tenor Sax Section KeySwitch'
