@@ -1,4 +1,4 @@
-ADD MIDI_INSTRUMENT_MAP 'FirstCallHorns-Trumpet-Section'
+ADD MIDI_INSTRUMENT_MAP 'FCH-Trumpet-Section'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Trumpet\x20Section.gig' 0 1.0 ON_DEMAND 'Trumpet Section'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Trumpet\x20Section.gig' 7 1.0 ON_DEMAND 'Trumpet Section Fall Long'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Trumpet\x20Section.gig' 6 1.0 ON_DEMAND 'Trumpet Section Fall Medium'

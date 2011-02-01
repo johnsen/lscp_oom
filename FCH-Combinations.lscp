@@ -1,4 +1,4 @@
-ADD MIDI_INSTRUMENT_MAP 'FirstCallHorns-Combinations'
+ADD MIDI_INSTRUMENT_MAP 'FCH-Combinations'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Combinations.gig' 0 1.0 ON_DEMAND 'ASax Tpt FPSwell'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Combinations.gig' 3 1.0 ON_DEMAND 'ASax Tpt Tb FPSwell'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Combinations.gig' 4 1.0 ON_DEMAND 'ASax Tpt Tb Staccato'

@@ -1,4 +1,4 @@
-ADD MIDI_INSTRUMENT_MAP 'FirstCallHorns-ImprovsAndRiffs-Tb'
+ADD MIDI_INSTRUMENT_MAP 'FCH-ImprovsAndRiffs-Tb'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 7 1.0 ON_DEMAND 'Tb Bucket Mute Riffs'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 8 1.0 ON_DEMAND 'Tb Cup Mute Riffs'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 9 1.0 ON_DEMAND 'Tb Harmon Mute Riffs'
