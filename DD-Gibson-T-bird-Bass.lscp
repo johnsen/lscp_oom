@@ -1,8 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'DD-Gibson-T-bird-Bass'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Gibson\x20T-bird\x20Bass.gig' 6 1.0 ON_DEMAND 'Gibson T-bird FA'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Gibson\x20T-bird\x20Bass.gig' 5 1.0 ON_DEMAND 'Gibson T-bird FH'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Gibson\x20T-bird\x20Bass.gig' 4 1.0 ON_DEMAND 'Gibson T-bird PA'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 3 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Gibson\x20T-bird\x20Bass.gig' 3 1.0 ON_DEMAND 'Gibson T-bird PB'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 4 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Gibson\x20T-bird\x20Bass.gig' 1 1.0 ON_DEMAND 'Gibson T-bird PF'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 5 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Gibson\x20T-bird\x20Bass.gig' 2 1.0 ON_DEMAND 'Gibson T-bird PH'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 6 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Gibson\x20T-bird\x20Bass.gig' 0 1.0 ON_DEMAND 'Gibson Thunderbird Keyswitch'

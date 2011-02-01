@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<oom version="1.0">
+  
+    <MidiInstrument name="FCH-Trumpet-Solo">
+      
+		<PatchGroup name="Trumpet_Open">
+			<Patch name="Trumpet_Open_" hbank="0" lbank="0" prog="0"/>
+			<Patch name="Trumpet_Open_Attack" hbank="0" lbank="0" prog="1"/>
+			<Patch name="Trumpet_Open_Doit" hbank="0" lbank="0" prog="2"/>
+			<Patch name="Trumpet_Open_Fall" hbank="0" lbank="0" prog="3"/>
+			<Patch name="Trumpet_Open_Flutter" hbank="0" lbank="0" prog="4"/>
+			<Patch name="Trumpet_Open_Lazy" hbank="0" lbank="0" prog="5"/>
+			<Patch name="Trumpet_Open_Lip_Trill" hbank="0" lbank="0" prog="6"/>
+			<Patch name="Trumpet_Open_Punch" hbank="0" lbank="0" prog="7"/>
+			<Patch name="Trumpet_Open_Short" hbank="0" lbank="0" prog="8"/>
+			<Patch name="Trumpet_Open_Stabs" hbank="0" lbank="0" prog="9"/>
+			<Patch name="Trumpet_Open_KeySwitch_1" hbank="0" lbank="0" prog="10"/>
+			<Patch name="Trumpet_Open_KeySwitch_2" hbank="0" lbank="0" prog="11"/>
+		</PatchGroup>
+		<PatchGroup name="Trumpet_Straight_Mute">
+			<Patch name="Trumpet_Straight_Mute_Closed" hbank="0" lbank="1" prog="0"/>
+			<Patch name="Trumpet_Straight_Mute_Duet" hbank="0" lbank="1" prog="1"/>
+			<Patch name="Trumpet_Straight_Mute_FPSwell" hbank="0" lbank="1" prog="2"/>
+			<Patch name="Trumpet_Straight_Mute_No_Vibrato" hbank="0" lbank="1" prog="3"/>
+			<Patch name="Trumpet_Straight_Mute_Shakes" hbank="0" lbank="1" prog="4"/>
+			<Patch name="Trumpet_Straight_Mute_Swell" hbank="0" lbank="1" prog="5"/>
+			<Patch name="Trumpet_Straight_Mute_Vibrato" hbank="0" lbank="1" prog="6"/>
+			<Patch name="Trumpet_Straight_Mute_KeySwitch" hbank="0" lbank="1" prog="7"/>
+		</PatchGroup>
+		<PatchGroup name="Trumpet_Harmon_Mute">
+			<Patch name="Trumpet_Harmon" hbank="0" lbank="2" prog="0"/>
+			<Patch name="Trumpet_Harmon_Attack" hbank="0" lbank="2" prog="1"/>
+			<Patch name="Trumpet_Harmon_Doit" hbank="0" lbank="2" prog="2"/>
+			<Patch name="Trumpet_Harmon_Fall_Long" hbank="0" lbank="2" prog="3"/>
+			<Patch name="Trumpet_Harmon_Fall_Short" hbank="0" lbank="2" prog="4"/>
+			<Patch name="Trumpet_Harmon_Flutter" hbank="0" lbank="2" prog="5"/>
+			<Patch name="Trumpet_Harmon_Lazy" hbank="0" lbank="2" prog="6"/>
+			<Patch name="Trumpet_Harmon_Lip_Trill" hbank="0" lbank="2" prog="7"/>
+			<Patch name="Trumpet_Harmon_Open" hbank="0" lbank="2" prog="8"/>
+			<Patch name="Trumpet_Harmon_Short" hbank="0" lbank="2" prog="9"/>
+			<Patch name="Trumpet_Harmon_KeySwitch_1" hbank="0" lbank="2" prog="10"/>
+			<Patch name="Trumpet_Harmon_KeySwitch_2" hbank="0" lbank="2" prog="11"/>
+		</PatchGroup>
+		<PatchGroup name="Trumpet_Cup_Mute">
+			<Patch name="Trumpet_Cup_" hbank="0" lbank="3" prog="0"/>
+			<Patch name="Trumpet_Cup_Attack" hbank="0" lbank="3" prog="1"/>
+			<Patch name="Trumpet_Cup_Doit" hbank="0" lbank="3" prog="2"/>
+			<Patch name="Trumpet_Cup_Fall_Long" hbank="0" lbank="3" prog="3"/>
+			<Patch name="Trumpet_Cup_Fall_Short" hbank="0" lbank="3" prog="4"/>
+			<Patch name="Trumpet_Cup_Finger_Trill" hbank="0" lbank="3" prog="5"/>
+			<Patch name="Trumpet_Cup_Flutter" hbank="0" lbank="3" prog="6"/>
+			<Patch name="Trumpet_Cup_Lazy" hbank="0" lbank="3" prog="7"/>
+			<Patch name="Trumpet_Cup_Lazy_Short" hbank="0" lbank="3" prog="8"/>
+			<Patch name="Trumpet_Cup_Lip_Trill" hbank="0" lbank="3" prog="9"/>
+			<Patch name="Trumpet_Cup_Stab" hbank="0" lbank="3" prog="10"/>
+			<Patch name="Trumpet_Cup_Mute_KeySwitch_1" hbank="0" lbank="3" prog="11"/>
+			<Patch name="Trumpet_Cup_Mute_KeySwitch_2" hbank="0" lbank="3" prog="12"/>
+		</PatchGroup>
+
+    <Controller name="Modulation" l="1"/><Controller name="reverb" l="3"/><Controller name="MainVolume" l="7"/><Controller name="Pan" l="10"/><Controller name="Expression" l="11"/><Controller name="Program" type="Program" init="0x0"/></MidiInstrument>
+  
+</oom>

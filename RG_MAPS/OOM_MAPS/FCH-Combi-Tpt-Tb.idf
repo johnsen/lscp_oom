@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<oom version="1.0">
+  
+    <MidiInstrument name="FCH-Combi-Tpt-Tb">
+      
+		<PatchGroup name="Combinations">
+			<Patch name="Tpt_Tb_Fall_Long" hbank="0" lbank="0" prog="0"/>
+			<Patch name="Tpt_Tb_Fall_Medium" hbank="0" lbank="0" prog="1"/>
+			<Patch name="Tpt_Tb_Fall_Short" hbank="0" lbank="0" prog="2"/>
+			<Patch name="Tpt_Tb_FPSwell" hbank="0" lbank="0" prog="3"/>
+			<Patch name="Tpt_Tb_Staccato" hbank="0" lbank="0" prog="4"/>
+		</PatchGroup>
+
+    <Controller name="Modulation" l="1"/><Controller name="reverb" l="3"/><Controller name="MainVolume" l="7"/><Controller name="Pan" l="10"/><Controller name="Expression" l="11"/><Controller name="Program" type="Program" init="0x0"/></MidiInstrument>
+  
+</oom>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<oom version="1.0">
+  
+    <MidiInstrument name="Piano-Maestro-Grand">
+      
+		<PatchGroup name="maestro_concert_grand_v2">
+			<Patch name="Maestro_Conc._Grand_B" hbank="0" lbank="0" prog="0"/>
+			<Patch name="Maestro_Concert_Grand" hbank="0" lbank="0" prog="1"/>
+			<Patch name="MCG_B_Sus_+_Release" hbank="0" lbank="0" prog="2"/>
+			<Patch name="MCG_Sustains_+_Releases" hbank="0" lbank="0" prog="3"/>
+			<Patch name="mcg_key_release" hbank="0" lbank="0" prog="4"/>
+			<Patch name="mcg_key_release_only" hbank="0" lbank="0" prog="5"/>
+			<Patch name="Effects" hbank="0" lbank="0" prog="6"/>
+		</PatchGroup>
+
+    <Controller name="Modulation" l="1"/><Controller name="reverb" l="3"/><Controller name="MainVolume" l="7"/><Controller name="Pan" l="10"/><Controller name="Expression" l="11"/><Controller name="Program" type="Program" init="0x0"/></MidiInstrument>
+  
+</oom>

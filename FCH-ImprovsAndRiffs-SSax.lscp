@@ -1,4 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'FCH-ImprovsAndRiffs-SSax'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 1 1.0 ON_DEMAND 'SSax Improv 1'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 2 1.0 ON_DEMAND 'SSax Improv 2'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 3 1.0 ON_DEMAND 'SSax Improv 3'

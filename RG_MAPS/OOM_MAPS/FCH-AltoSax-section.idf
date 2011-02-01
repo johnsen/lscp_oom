@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<oom version="1.0">
+  
+    <MidiInstrument name="FCH-AltoSax-section">
+      
+		<PatchGroup name="Alto_Sax_Section">
+			<Patch name="Alto_Sax_Mellow" hbank="0" lbank="0" prog="0"/>
+			<Patch name="Alto_Sax_Section" hbank="0" lbank="0" prog="1"/>
+			<Patch name="Alto_Sax_Section_Falls" hbank="0" lbank="0" prog="2"/>
+			<Patch name="Alto_Sax_Section_FPSwell_Diminuendo" hbank="0" lbank="0" prog="3"/>
+			<Patch name="Alto_Sax_Section_FPSwell_Long" hbank="0" lbank="0" prog="4"/>
+			<Patch name="Alto_Sax_Section_FPSwell_Short" hbank="0" lbank="0" prog="5"/>
+			<Patch name="Alto_Sax_Section_KeySwitch" hbank="0" lbank="0" prog="6"/>
+			<Patch name="Alto_Sax_Section_Staccato" hbank="0" lbank="0" prog="7"/>
+		</PatchGroup>
+
+    <Controller name="Modulation" l="1"/><Controller name="reverb" l="3"/><Controller name="MainVolume" l="7"/><Controller name="Pan" l="10"/><Controller name="Expression" l="11"/><Controller name="Program" type="Program" init="0x0"/></MidiInstrument>
+  
+</oom>

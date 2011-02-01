@@ -1,7 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'FCH-ImprovsAndRiffs-Tpt'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 15 1.0 ON_DEMAND 'Tpt Improv 1'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 16 1.0 ON_DEMAND 'Tpt Improv 2'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 17 1.0 ON_DEMAND 'Tpt Improv 3'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 3 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 18 1.0 ON_DEMAND 'Tpt Mute Improv 1'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 4 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 19 1.0 ON_DEMAND 'Tpt Mute Improv 2'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 5 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Improvs\x20and\x20Riffs.gig' 20 1.0 ON_DEMAND 'Tpt Mute Improv 3'

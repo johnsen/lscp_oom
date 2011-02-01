@@ -1,8 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'DD-Guild-Pilot-5String'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Guild\x20Pilot\x20-\x205\x20String.gig' 4 1.0 ON_DEMAND 'Pilot/5 FF'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Guild\x20Pilot\x20-\x205\x20String.gig' 5 1.0 ON_DEMAND 'Pilot/5 FH'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Guild\x20Pilot\x20-\x205\x20String.gig' 1 1.0 ON_DEMAND 'Pilot/5 PF'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 3 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Guild\x20Pilot\x20-\x205\x20String.gig' 2 1.0 ON_DEMAND 'Pilot/5 PH'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 4 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Guild\x20Pilot\x20-\x205\x20String.gig' 3 1.0 ON_DEMAND 'Pilot/5 PM'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 5 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Guild\x20Pilot\x20-\x205\x20String.gig' 6 1.0 ON_DEMAND 'Pilot/5 Pop'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 6 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Guild\x20Pilot\x20-\x205\x20String.gig' 7 1.0 ON_DEMAND 'Pilot/5 Slap'

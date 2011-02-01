@@ -1,0 +1,8 @@
+ADD MIDI_INSTRUMENT_MAP 'Maestro-Grand-Piano'
+MAP MIDI_INSTRUMENT NON_MODAL 25 0 0 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 2 1.0 ON_DEMAND_HOLD 'Maestro Conc. Grand B'
+MAP MIDI_INSTRUMENT NON_MODAL 25 0 1 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 0 1.0 ON_DEMAND_HOLD 'Maestro Concert Grand'
+MAP MIDI_INSTRUMENT NON_MODAL 25 0 2 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 3 1.0 ON_DEMAND_HOLD 'MCG B Sus + Release'
+MAP MIDI_INSTRUMENT NON_MODAL 25 0 3 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 1 1.0 ON_DEMAND_HOLD 'MCG Sustains + Releases'
+MAP MIDI_INSTRUMENT NON_MODAL 25 0 4 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 5 1.0 ON_DEMAND_HOLD 'mcg_key_release'
+MAP MIDI_INSTRUMENT NON_MODAL 25 0 5 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 6 1.0 ON_DEMAND_HOLD 'mcg_key_release only'
+MAP MIDI_INSTRUMENT NON_MODAL 25 0 6 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 4 1.0 ON_DEMAND_HOLD 'Effects'

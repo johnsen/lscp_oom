@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+
+<MIDINameDocument>
+  <Author>Derick</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Rosegarden</Manufacturer>
+    <Model>FCH-Trombone-Solo</Model>
+    <CustomDeviceMode Name="FCH-Trombone-Solo">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="2" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="3" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="4" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="5" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="6" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="7" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="8" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="9" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="10" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="11" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="12" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="13" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="14" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="15" NameSet="FCH-Trombone-Solo"/>
+        <ChannelNameSetAssign Channel="16" NameSet="FCH-Trombone-Solo"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="FCH-Trombone-Solo">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Trombone">
+        <PatchNameList>
+          <Patch Number="0" Name="Trombone_Solo_No_Vibrato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="1" Name="Trombone_Solo_Vibrato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="1"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="2" Name="Trombone_Solo_Staccato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="2"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="3" Name="Trombone_Solo_Mute">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="3"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="4" Name="Trombone_Solo_FPSwell_Diminuendo">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="4"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="5" Name="Trombone_Solo_FPSwell">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="5"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="6" Name="Trombone_Solo_Fall">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="6"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="7" Name="Trombone_Solo_Cup_Mute">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="7"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="8" Name="Trombone_Duet">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="8"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="9" Name="Tb_KeySw">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="9"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

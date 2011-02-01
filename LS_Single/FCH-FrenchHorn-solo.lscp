@@ -1,0 +1,7 @@
+ADD MIDI_INSTRUMENT_MAP 'FCH-FrenchHorn'
+MAP MIDI_INSTRUMENT NON_MODAL 9 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/French\x20Horn.gig' 0 1.0 ON_DEMAND_HOLD 'French Horn Solo No Vibrato'
+MAP MIDI_INSTRUMENT NON_MODAL 9 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/French\x20Horn.gig' 1 1.0 ON_DEMAND_HOLD 'French Horn Solo Vibrato'
+MAP MIDI_INSTRUMENT NON_MODAL 9 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/French\x20Horn.gig' 3 1.0 ON_DEMAND_HOLD 'French Horn Solo Rips'
+MAP MIDI_INSTRUMENT NON_MODAL 9 0 3 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/French\x20Horn.gig' 2 1.0 ON_DEMAND_HOLD 'French Horn Solo Staccato'
+MAP MIDI_INSTRUMENT NON_MODAL 9 0 4 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/French\x20Horn.gig' 4 1.0 ON_DEMAND_HOLD 'French Horn Duet Legato'
+MAP MIDI_INSTRUMENT NON_MODAL 9 0 5 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/French\x20Horn.gig' 5 1.0 ON_DEMAND_HOLD 'French Horn KeySwitch'

@@ -1,2 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'DD-Hohner-Fretless-FA'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Hohner\x20FA.gig' 0 1.0 ON_DEMAND 'Hohner Fretless FA'

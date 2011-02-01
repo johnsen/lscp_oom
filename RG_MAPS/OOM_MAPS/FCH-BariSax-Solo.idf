@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<oom version="1.0">
+  
+    <MidiInstrument name="FCH-BariSax-Solo">
+      
+		<PatchGroup name="BariSax_Solo">
+			<Patch name="BariSax_Solo_" hbank="0" lbank="0" prog="0"/>
+			<Patch name="BariSax_Solo_Bend_Up" hbank="0" lbank="0" prog="1"/>
+			<Patch name="BariSax_Solo_Staccato" hbank="0" lbank="0" prog="2"/>
+			<Patch name="Bari_Sax_Keyswitch" hbank="0" lbank="0" prog="3"/>
+		</PatchGroup>
+
+    <Controller name="Modulation" l="1"/><Controller name="reverb" l="3"/><Controller name="MainVolume" l="7"/><Controller name="Pan" l="10"/><Controller name="Expression" l="11"/><Controller name="Program" type="Program" init="0x0"/></MidiInstrument>
+  
+</oom>

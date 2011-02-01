@@ -1,6 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'DD-FenderPrecisionBass'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Fender\x20Precision\x20Bass.gig' 3 1.0 ON_DEMAND 'Fender Precision - F'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Fender\x20Precision\x20Bass.gig' 4 1.0 ON_DEMAND 'Fender Precision - FA'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Fender\x20Precision\x20Bass.gig' 1 1.0 ON_DEMAND 'Fender Precision - P'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 3 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Fender\x20Precision\x20Bass.gig' 2 1.0 ON_DEMAND 'Fender Precision - PA'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 4 GIG '/home/derick/linuxaudio/laudata_unp/DanDean_Bass/Fender\x20Precision\x20Bass.gig' 0 1.0 ON_DEMAND 'Fender Precision Keyswitch'

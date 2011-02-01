@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<oom version="1.0">
+  
+    <MidiInstrument name="FCH-Trombone-Solo">
+      
+		<PatchGroup name="Trombone">
+			<Patch name="Trombone_Solo_No_Vibrato" hbank="0" lbank="0" prog="0"/>
+			<Patch name="Trombone_Solo_Vibrato" hbank="0" lbank="0" prog="1"/>
+			<Patch name="Trombone_Solo_Staccato" hbank="0" lbank="0" prog="2"/>
+			<Patch name="Trombone_Solo_Mute" hbank="0" lbank="0" prog="3"/>
+			<Patch name="Trombone_Solo_FPSwell_Diminuendo" hbank="0" lbank="0" prog="4"/>
+			<Patch name="Trombone_Solo_FPSwell" hbank="0" lbank="0" prog="5"/>
+			<Patch name="Trombone_Solo_Fall" hbank="0" lbank="0" prog="6"/>
+			<Patch name="Trombone_Solo_Cup_Mute" hbank="0" lbank="0" prog="7"/>
+			<Patch name="Trombone_Duet" hbank="0" lbank="0" prog="8"/>
+			<Patch name="Tb_KeySw" hbank="0" lbank="0" prog="9"/>
+		</PatchGroup>
+
+    <Controller name="Modulation" l="1"/><Controller name="reverb" l="3"/><Controller name="MainVolume" l="7"/><Controller name="Pan" l="10"/><Controller name="Expression" l="11"/><Controller name="Program" type="Program" init="0x0"/></MidiInstrument>
+  
+</oom>

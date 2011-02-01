@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+
+<MIDINameDocument>
+  <Author>Derick</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Rosegarden</Manufacturer>
+    <Model>FCH-Trumpet-Solo</Model>
+    <CustomDeviceMode Name="FCH-Trumpet-Solo">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="2" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="3" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="4" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="5" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="6" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="7" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="8" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="9" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="10" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="11" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="12" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="13" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="14" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="15" NameSet="FCH-Trumpet-Solo"/>
+        <ChannelNameSetAssign Channel="16" NameSet="FCH-Trumpet-Solo"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="FCH-Trumpet-Solo">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Trumpet_Open">
+        <PatchNameList>
+          <Patch Number="0" Name="Trumpet_Open_">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="1" Name="Trumpet_Open_Attack">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="1"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="2" Name="Trumpet_Open_Doit">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="2"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="3" Name="Trumpet_Open_Fall">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="3"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="4" Name="Trumpet_Open_Flutter">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="4"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="5" Name="Trumpet_Open_Lazy">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="5"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="6" Name="Trumpet_Open_Lip_Trill">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="6"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="7" Name="Trumpet_Open_Punch">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="7"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="8" Name="Trumpet_Open_Short">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="8"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="9" Name="Trumpet_Open_Stabs">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="9"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="10" Name="Trumpet_Open_KeySwitch_1">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="10"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="11" Name="Trumpet_Open_KeySwitch_2">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="0"/>
+              <ProgramChange Number="11"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Trumpet_Straight_Mute">
+        <PatchNameList>
+          <Patch Number="0" Name="Trumpet_Straight_Mute_Closed">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="1" Name="Trumpet_Straight_Mute_Duet">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="1"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="2" Name="Trumpet_Straight_Mute_FPSwell">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="2"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="3" Name="Trumpet_Straight_Mute_No_Vibrato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="3"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="4" Name="Trumpet_Straight_Mute_Shakes">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="4"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="5" Name="Trumpet_Straight_Mute_Swell">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="5"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="6" Name="Trumpet_Straight_Mute_Vibrato">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="6"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="7" Name="Trumpet_Straight_Mute_KeySwitch">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="1"/>
+              <ProgramChange Number="7"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Trumpet_Harmon_Mute">
+        <PatchNameList>
+          <Patch Number="0" Name="Trumpet_Harmon">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="1" Name="Trumpet_Harmon_Attack">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="1"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="2" Name="Trumpet_Harmon_Doit">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="2"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="3" Name="Trumpet_Harmon_Fall_Long">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="3"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="4" Name="Trumpet_Harmon_Fall_Short">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="4"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="5" Name="Trumpet_Harmon_Flutter">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="5"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="6" Name="Trumpet_Harmon_Lazy">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="6"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="7" Name="Trumpet_Harmon_Lip_Trill">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="7"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="8" Name="Trumpet_Harmon_Open">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="8"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="9" Name="Trumpet_Harmon_Short">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="9"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="10" Name="Trumpet_Harmon_KeySwitch_1">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="10"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="11" Name="Trumpet_Harmon_KeySwitch_2">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="2"/>
+              <ProgramChange Number="11"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Trumpet_Cup_Mute">
+        <PatchNameList>
+          <Patch Number="0" Name="Trumpet_Cup_">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="0"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="1" Name="Trumpet_Cup_Attack">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="1"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="2" Name="Trumpet_Cup_Doit">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="2"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="3" Name="Trumpet_Cup_Fall_Long">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="3"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="4" Name="Trumpet_Cup_Fall_Short">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="4"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="5" Name="Trumpet_Cup_Finger_Trill">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="5"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="6" Name="Trumpet_Cup_Flutter">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="6"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="7" Name="Trumpet_Cup_Lazy">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="7"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="8" Name="Trumpet_Cup_Lazy_Short">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="8"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="9" Name="Trumpet_Cup_Lip_Trill">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="9"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="10" Name="Trumpet_Cup_Stab">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="10"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="11" Name="Trumpet_Cup_Mute_KeySwitch_1">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="11"/>
+            </PatchMIDICommands>
+          </Patch>
+          <Patch Number="12" Name="Trumpet_Cup_Mute_KeySwitch_2">
+            <PatchMIDICommands>
+              <ControlChange Control="0" Value="0"/>
+              <ControlChange Control="32" Value="3"/>
+              <ProgramChange Number="12"/>
+            </PatchMIDICommands>
+          </Patch>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

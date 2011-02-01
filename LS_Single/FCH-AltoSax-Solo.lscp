@@ -1,0 +1,8 @@
+ADD MIDI_INSTRUMENT_MAP 'FCH-AltoSax-Solo'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 0 1.0 ON_DEMAND_HOLD 'Alto Sax Solo'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 5 1.0 ON_DEMAND_HOLD 'Alto Sax Solo FPSwell'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 2 1.0 ON_DEMAND_HOLD 'Alto Sax Solo Mellow'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 3 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 3 1.0 ON_DEMAND_HOLD 'Alto Sax Solo Staccato'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 4 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 4 1.0 ON_DEMAND_HOLD 'Alto Sax Solo Vibrato'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 5 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 1 1.0 ON_DEMAND_HOLD 'Alto Sax Duet Legato'
+MAP MIDI_INSTRUMENT NON_MODAL 2 0 6 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 6 1.0 ON_DEMAND_HOLD 'Alto Sax KeySwitch'

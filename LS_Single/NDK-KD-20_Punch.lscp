@@ -1,0 +1,2 @@
+ADD MIDI_INSTRUMENT_MAP 'KD-20_Punch-NDK'
+MAP MIDI_INSTRUMENT NON_MODAL 21 0 0 GIG '/home/derick/linuxaudio/laudata_unp/NDKFunkkit/NDK-KD-20_Punch.gig' 0 1.0 ON_DEMAND_HOLD 'NDK KD - Punch (punchy, studio tuning)'
