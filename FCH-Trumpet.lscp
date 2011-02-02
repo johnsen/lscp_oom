@@ -1,4 +1,4 @@
-ADD MIDI_INSTRUMENT_MAP 'FCH-Trumpet-Solo'
+ADD MIDI_INSTRUMENT_MAP 'FCH-Trumpet'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Trumpet\x20Open.gig' 0 1.0 ON_DEMAND 'Trumpet Open '
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Trumpet\x20Open.gig' 1 1.0 ON_DEMAND 'Trumpet Open Attack'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Trumpet\x20Open.gig' 9 1.0 ON_DEMAND 'Trumpet Open Doit'

@@ -1,4 +1,4 @@
-ADD MIDI_INSTRUMENT_MAP 'Maestro-Grand-Piano'
+ADD MIDI_INSTRUMENT_MAP 'Grand-Piano'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 2 1.0 ON_DEMAND 'Maestro Conc. Grand B'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 0 1.0 ON_DEMAND 'Maestro Concert Grand'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/linuxsampler/piano/maestro_concert_grand_v2.gig' 3 1.0 ON_DEMAND 'MCG B Sus + Release'

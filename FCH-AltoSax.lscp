@@ -1,4 +1,4 @@
-ADD MIDI_INSTRUMENT_MAP 'FCH-AltoSax-Solo'
+ADD MIDI_INSTRUMENT_MAP 'FCH-AltoSax'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 0 1.0 ON_DEMAND 'Alto Sax Solo'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 5 1.0 ON_DEMAND 'Alto Sax Solo FPSwell'
 MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Alto\x20Sax\x20Solo.gig' 2 1.0 ON_DEMAND 'Alto Sax Solo Mellow'
