@@ -1,6 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'FCH-TenorSax-Solo'
-MAP MIDI_INSTRUMENT NON_MODAL 14 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax.gig' 0 1.0 ON_DEMAND_HOLD 'Tenor Sax Solo No Vibrato'
-MAP MIDI_INSTRUMENT NON_MODAL 14 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax.gig' 1 1.0 ON_DEMAND_HOLD 'Tenor Sax Solo Vibrato'
-MAP MIDI_INSTRUMENT NON_MODAL 14 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax.gig' 2 1.0 ON_DEMAND_HOLD 'Tenor Sax Solo Staccato'
-MAP MIDI_INSTRUMENT NON_MODAL 14 0 3 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax.gig' 3 1.0 ON_DEMAND_HOLD 'Tenor Sax Duet'
-MAP MIDI_INSTRUMENT NON_MODAL 14 0 4 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Tenor\x20Sax.gig' 4 1.0 ON_DEMAND_HOLD 'Tenor Sax KeySwitch'

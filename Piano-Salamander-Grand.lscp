@@ -1,2 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'Salamander-Grand-Piano'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 SFZ '/home/derick/linuxaudio/linuxsampler/piano/SalamanderGrandPianoV2_48khz24bit/SalamanderGrandPianoV2.sfz' 0 1.0 ON_DEMAND 'SalamanderGrandPianoV2'

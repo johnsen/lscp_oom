@@ -1,4 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'FCH-Flugelhorn-Section'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 0 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Flugelhorn\x20Section.gig' 0 1.0 ON_DEMAND 'Flugel Section No Vibrato'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 1 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Flugelhorn\x20Section.gig' 1 1.0 ON_DEMAND 'Flugel Section Vibrato'
-MAP MIDI_INSTRUMENT NON_MODAL 0 0 2 GIG '/home/derick/linuxaudio/laudata_unp/First\x20Call\x20Horns/Flugelhorn\x20Section.gig' 2 1.0 ON_DEMAND 'Flugelhorn Section KeySwitch'

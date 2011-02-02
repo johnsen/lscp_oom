@@ -1,2 +1,0 @@
-ADD MIDI_INSTRUMENT_MAP 'HH13-13UFIP_Bionic_hihat-mwh-NDK'
-MAP MIDI_INSTRUMENT NON_MODAL 19 0 0 GIG '/home/derick/linuxaudio/laudata_unp/NDKFunkkit/NDK-HH13-13_UFIP_Bionic_Series_hi-hat-mwh.gig' 0 1.0 ON_DEMAND_HOLD 'NDK HH13 - 13\" UFIP \'Bionic Series\''
